@@ -1,1 +1,1 @@
-server.txt
+https://myappsde.info/api/
